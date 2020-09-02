@@ -1,4 +1,4 @@
- # resumo tipos Primitivo
+ # Resumos de tipos Primitivos
  
 |PRIMITIVO  |TAMANHO |  Valor Padrão | Menor | Maior
 |---- | ---- | --- |---- |-----
